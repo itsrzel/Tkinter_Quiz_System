@@ -8,11 +8,17 @@
 ✓ 10 multiple-choice questions
 
 ✓ Random question order
+
 ✓ 15-second countdown timer
+
 ✓ Answer checking and time-out handling
+
 ✓ Score and percentage
+
 ✓ Answer review
+
 ✓ High score saved in a text file
+
 ✓ Restart button
 
 ## How the Questions Are Stored and Shuffled
