@@ -1,7 +1,7 @@
 # Atlas Pinas
 
 * Name: Rezelle Vedeja Filomeno
-* Section: Your Section
+* Section: BS Information Technology - Software engineering 3-A
 * Topic: Philippine Geography
 
 ## Features Completed
