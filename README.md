@@ -6,6 +6,7 @@
 
 ## Features Completed
 ✓ 10 multiple-choice questions
+
 ✓ Random question order
 ✓ 15-second countdown timer
 ✓ Answer checking and time-out handling
