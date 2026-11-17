@@ -1,6 +1,6 @@
 # Atlas Pinas
 
-** Name: Rezelle Vedeja Filomeno
+* Name: Rezelle Vedeja Filomeno
 * Section: Your Section
 * Topic: Philippine Geography
 
