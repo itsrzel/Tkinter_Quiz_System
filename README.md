@@ -49,7 +49,7 @@ save_high_score()	Saves a new highest score in the text file.	When the player ge
 show_results()	Displays the final score, percentage, and answer review.	After all questions are answered.
 
 ## Screenshots
-
+See the uploaded screenshots the screenshot folder uploaded in this repository.
 
 ## Challenges I Faced
 One of the challenges I faced was making the timer work correctly without affecting the other parts of the quiz. I also had difficulty saving and displaying the highest score. I solved these by using Tkinter's after() function for the countdown and a text file to store the highest score. I also tested the program several times to make sure the buttons, answers, and scoring worked properly.
